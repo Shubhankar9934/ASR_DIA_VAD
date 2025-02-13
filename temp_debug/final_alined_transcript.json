@@ -1,0 +1,557 @@
+[
+  {
+    "type": "speech",
+    "start": 0.0,
+    "end": 4.0,
+    "speaker": "SPEAKER_00",
+    "text": "This is a very experimental, real India-China conversation."
+  },
+  {
+    "type": "speech",
+    "start": 4.0,
+    "end": 6.0,
+    "speaker": "unknown",
+    "text": "You grew up in China?"
+  },
+  {
+    "type": "speech",
+    "start": 6.0,
+    "end": 7.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "type": "speech", 
+    "start": 7.0,
+    "end": 9.0,
+    "speaker": "SPEAKER_00",
+    "text": "When the one-child policy was there in China,"
+  },
+  {
+    "type": "speech",
+    "start": 9.0,
+    "end": 11.0,
+    "speaker": "SPEAKER_00",
+    "text": "are you part of that one-child policy?"
+  },
+  {
+    "type": "speech",
+    "start": 11.0,
+    "end": 12.0,
+    "speaker": "SPEAKER_01",
+    "text": "I am."
+  },
+  {
+    "type": "speech",
+    "start": 12.0,
+    "end": 14.0,
+    "speaker": "SPEAKER_01",
+    "text": "A lot of people say, oh, your government is mim."
+  },
+  {
+    "type": "speech",
+    "start": 14.0,
+    "end": 15.0,
+    "speaker": "SPEAKER_01",
+    "text": "Why have one-child policy?"
+  },
+  {
+    "type": "speech",
+    "start": 15.0,
+    "end": 16.0,
+    "speaker": "SPEAKER_01",
+    "text": "People should have freedom."
+  },
+  {
+    "type": "speech",
+    "start": 16.0,
+    "end": 18.0,
+    "speaker": "SPEAKER_01",
+    "text": "I disagree about that."
+  },
+  {
+    "type": "speech",
+    "start": 18.0,
+    "end": 21.0,
+    "speaker": "SPEAKER_00",
+    "text": "How do I make it reach Chinese audiences?"
+  },
+  {
+    "type": "speech",
+    "start": 21.0,
+    "end": 22.0,
+    "speaker": "SPEAKER_01",
+    "text": "TikTok."
+  },
+  {
+    "type": "speech",
+    "start": 22.0,
+    "end": 25.0,
+    "speaker": "SPEAKER_01",
+    "text": "But in China is the same platform we call Doin."
+  },
+  {
+    "type": "speech",
+    "start": 25.0,
+    "end": 31.0,
+    "speaker": "SPEAKER_01",
+    "text": "If you want to really to see China media, that is a trick I just found it out."
+  },
+  {
+    "type": "speech",
+    "start": 31.0,
+    "end": 33.0,
+    "speaker": "SPEAKER_01",
+    "text": "I will be definitely banned."
+  },
+  {
+    "type": "speech",
+    "start": 33.0,
+    "end": 35.0,
+    "speaker": "SPEAKER_00",
+    "text": "What is the dating scene like in China?"
+  },
+  {
+    "type": "speech",
+    "start": 35.0,
+    "end": 37.0,
+    "speaker": "SPEAKER_00",
+    "text": "Are Chinese people romantic?"
+  },
+  {
+    "type": "speech",
+    "start": 37.0,
+    "end": 39.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think in general, no?"
+  },
+  {
+    "type": "speech",
+    "start": 39.0,
+    "end": 40.0,
+    "speaker": "SPEAKER_01",
+    "text": "No."
+  },
+  {
+    "type": "speech",
+    "start": 40.0,
+    "end": 41.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "type": "speech",
+    "start": 41.0,
+    "end": 42.0,
+    "speaker": "SPEAKER_01",
+    "text": "Chinese people are super shy."
+  },
+  {
+    "type": "speech",
+    "start": 42.0,
+    "end": 48.0,
+    "speaker": "SPEAKER_01",
+    "text": "More think about the business, family and make money, make money and make money."
+  },
+  {
+    "type": "speech",
+    "start": 48.0,
+    "end": 50.0,
+    "speaker": "unknown",
+    "text": "A lot of Indians."
+  },
+  {
+    "type": "speech",
+    "start": 50.0,
+    "end": 53.0,
+    "speaker": "SPEAKER_00",
+    "text": "We're very curious about China. We want to learn from China."
+  },
+  {
+    "type": "speech",
+    "start": 53.0,
+    "end": 56.0,
+    "speaker": "SPEAKER_00",
+    "text": "But many of us are vegetarian. We don't eat meat."
+  },
+  {
+    "type": "speech",
+    "start": 56.0,
+    "end": 61.0,
+    "speaker": "SPEAKER_01",
+    "text": "Ah, don't worry. You need to go to the restaurant to mention your vegetarian."
+  },
+  {
+    "type": "speech",
+    "start": 61.0,
+    "end": 63.0,
+    "speaker": "SPEAKER_01",
+    "text": "When I was child, I was a vegetarian."
+  },
+  {
+    "type": "speech",
+    "start": 63.0,
+    "end": 65.0,
+    "speaker": "SPEAKER_00",
+    "text": "Really? I burned like that."
+  },
+  {
+    "type": "speech",
+    "start": 65.0,
+    "end": 68.0,
+    "speaker": "SPEAKER_00",
+    "text": "President Xi Jinping, how does he talk to public?"
+  },
+  {
+    "type": "speech",
+    "start": 68.0,
+    "end": 70.0,
+    "speaker": "SPEAKER_01",
+    "text": "He's quite cool guy."
+  },
+  {
+    "type": "speech",
+    "start": 70.0,
+    "end": 80.0,
+    "speaker": "SPEAKER_01",
+    "text": "He's always going to different side of China be down to the factory, to the people's family, even to the village, to show the government's cares."
+  },
+  {
+    "type": "speech",
+    "start": 80.0,
+    "end": 84.0,
+    "speaker": "SPEAKER_00",
+    "text": "Let's speak about Bollywood. What we are told is that Amir Khan is very big in China."
+  },
+  {
+    "type": "speech",
+    "start": 84.0,
+    "end": 86.72,
+    "speaker": "SPEAKER_01",
+    "text": "You know who is more famous right now in China?"
+  },
+  {
+    "type": "silence",
+    "start": 86.72,
+    "end": 86.96
+  },
+  {
+    "type": "speech",
+    "start": 86.96,
+    "end": 87.74,
+    "speaker": "SPEAKER_01",
+    "text": "It's the billionaire."
+  },
+  {
+    "type": "silence",
+    "start": 87.74,
+    "end": 88.14
+  },
+  {
+    "type": "speech",
+    "start": 88.14,
+    "end": 88.84,
+    "speaker": "SPEAKER_00",
+    "text": "Anandamani."
+  },
+  {
+    "type": "silence",
+    "start": 88.84,
+    "end": 88.92
+  },
+  {
+    "type": "speech",
+    "start": 88.92,
+    "end": 90.96,
+    "speaker": "SPEAKER_01",
+    "text": "He's got so famous in China."
+  },
+  {
+    "type": "silence",
+    "start": 90.96,
+    "end": 91.38
+  },
+  {
+    "type": "speech",
+    "start": 91.38,
+    "end": 92.92,
+    "speaker": "SPEAKER_01",
+    "text": "Everyone talk about him."
+  },
+  {
+    "type": "silence",
+    "start": 92.92,
+    "end": 93.86
+  },
+  {
+    "type": "speech",
+    "start": 93.86,
+    "end": 97.82,
+    "speaker": "SPEAKER_00",
+    "text": "Honestly, there's a lot of geopolitical tension between our two countries."
+  },
+  {
+    "type": "silence",
+    "start": 97.82,
+    "end": 98.18
+  },
+  {
+    "type": "speech",
+    "start": 98.18,
+    "end": 103.3,
+    "speaker": "SPEAKER_00",
+    "text": "Two, three years ago, there was a clash at the border with Chinese soldiers and Indian soldiers."
+  },
+  {
+    "type": "silence",
+    "start": 103.3,
+    "end": 103.6
+  },
+  {
+    "type": "speech",
+    "start": 103.6,
+    "end": 108.24,
+    "speaker": "SPEAKER_00",
+    "text": "In India, we are told that after India, China war, one part of India got taken away."
+  },
+  {
+    "type": "speech",
+    "start": 108.24,
+    "end": 109.6,
+    "speaker": "SPEAKER_00",
+    "text": "Aksai Chin."
+  },
+  {
+    "type": "speech",
+    "start": 109.6,
+    "end": 112.4,
+    "speaker": "SPEAKER_01",
+    "text": "To be honest, media will never know the truth."
+  },
+  {
+    "type": "speech",
+    "start": 112.4,
+    "end": 114.16,
+    "speaker": "SPEAKER_01",
+    "text": "You will never know the truth."
+  },
+  {
+    "type": "speech",
+    "start": 114.16,
+    "end": 115.2,
+    "speaker": "SPEAKER_00",
+    "text": "This was announced in China?"
+  },
+  {
+    "type": "speech",
+    "start": 115.2,
+    "end": 116.8,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, yeah, yeah, for sure."
+  },
+  {
+    "type": "speech",
+    "start": 116.8,
+    "end": 117.84,
+    "speaker": "SPEAKER_00",
+    "text": "What was said?"
+  },
+  {
+    "type": "speech",
+    "start": 117.84,
+    "end": 121.92,
+    "speaker": "SPEAKER_01",
+    "text": "I'm quite the international open mind, but I'm really disagree about this part."
+  },
+  {
+    "type": "speech",
+    "start": 121.92,
+    "end": 124.64,
+    "speaker": "SPEAKER_01",
+    "text": "It's because they don't know what's happened in the moment in China."
+  },
+  {
+    "type": "speech",
+    "start": 124.64,
+    "end": 126.94,
+    "speaker": "SPEAKER_00",
+    "text": "How does China feel about religion in general?"
+  },
+  {
+    "type": "silence",
+    "start": 126.94,
+    "end": 127.6
+  },
+  {
+    "type": "speech",
+    "start": 127.6,
+    "end": 132.3,
+    "speaker": "SPEAKER_01",
+    "text": "We don't have a religion, but mainly people believe Buddhates."
+  },
+  {
+    "type": "silence",
+    "start": 132.3,
+    "end": 132.86
+  },
+  {
+    "type": "speech",
+    "start": 132.86,
+    "end": 135.74,
+    "speaker": "SPEAKER_01",
+    "text": "I randomly meet a girl Chinese on the street."
+  },
+  {
+    "type": "speech",
+    "start": 135.74,
+    "end": 139.44,
+    "speaker": "SPEAKER_01",
+    "text": "She are promoting for me Indian religion."
+  },
+  {
+    "type": "silence",
+    "start": 139.44, 
+    "end": 140.0
+  },
+  {
+    "type": "speech",
+    "start": 140.0,
+    "end": 140.72,
+    "speaker": "SPEAKER_01",
+    "text": "She teaches me."
+  },
+  {
+    "type": "silence",
+    "start": 140.72,
+    "end": 140.9
+  },
+  {
+    "type": "speech",
+    "start": 140.9,
+    "end": 141.4,
+    "speaker": "SPEAKER_00",
+    "text": "Hinduism?"
+  },
+  {
+    "type": "silence",
+    "start": 141.4,
+    "end": 141.52
+  },
+  {
+    "type": "speech",
+    "start": 141.52,
+    "end": 142.08,
+    "speaker": "SPEAKER_01",
+    "text": "Krishna."
+  },
+  {
+    "type": "silence",
+    "start": 142.08,
+    "end": 142.38
+  },
+  {
+    "type": "speech",
+    "start": 142.38,
+    "end": 142.68,
+    "speaker": "SPEAKER_00",
+    "text": "Wow."
+  },
+  {
+    "type": "silence",
+    "start": 142.68,
+    "end": 145.26
+  },
+  {
+    "type": "speech",
+    "start": 145.26,
+    "end": 149.28,
+    "speaker": "SPEAKER_00",
+    "text": "This was one of the most fun episodes of the year for me."
+  },
+  {
+    "type": "silence",
+    "start": 149.28,
+    "end": 149.62
+  },
+  {
+    "type": "speech",
+    "start": 149.62,
+    "end": 151.72,
+    "speaker": "SPEAKER_00",
+    "text": "It features Yuchin Lee or Mary Lee."
+  },
+  {
+    "type": "silence",
+    "start": 151.72,
+    "end": 152.1
+  },
+  {
+    "type": "speech",
+    "start": 152.1,
+    "end": 153.44,
+    "speaker": "SPEAKER_00",
+    "text": "She's an entrepreneur from China."
+  },
+  {
+    "type": "silence",
+    "start": 153.44,
+    "end": 153.54
+  },
+  {
+    "type": "speech",
+    "start": 153.54,
+    "end": 154.7,
+    "speaker": "SPEAKER_00",
+    "text": "She's currently based in Dubai."
+  },
+  {
+    "type": "silence",
+    "start": 154.7,
+    "end": 155.1
+  },
+  {
+    "type": "speech",
+    "start": 155.1,
+    "end": 157.12,
+    "speaker": "SPEAKER_00",
+    "text": "She's been in Dubai for the last eight years."
+  },
+  {
+    "type": "speech",
+    "start": 157.12,
+    "end": 163.26,
+    "speaker": "SPEAKER_00",
+    "text": "She's one of the most charismatic people that I met on my recent trip to Singapore."
+  },
+  {
+    "type": "silence",
+    "start": 163.26,
+    "end": 163.78
+  },
+  {
+    "type": "speech",
+    "start": 163.78,
+    "end": 167.0,
+    "speaker": "SPEAKER_00",
+    "text": "We had a conversation the day prior to recording"
+  },
+  {
+    "type": "speech",
+    "start": 167.0,
+    "end": 172.32,
+    "speaker": "SPEAKER_00",
+    "text": "this episode where we were just exchanging notes on India and China and I realized that this person"
+  },
+  {
+    "type": "speech",
+    "start": 172.32,
+    "end": 177.34,
+    "speaker": "SPEAKER_00",
+    "text": "has such a strong personality. I have to take this person's story and this"
+  },
+  {
+    "type": "silence",
+    "start": 177.34,
+    "end": 177.354
+  }
+]

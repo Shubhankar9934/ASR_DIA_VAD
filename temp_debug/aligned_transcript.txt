@@ -1,0 +1,338 @@
+[
+  {
+    "timestamp": [
+      0.0,
+      4.0
+    ],
+    "text": " This is a very experimental real India-China conversation.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      4.96,
+      10.72
+    ],
+    "text": " You grew up in China? Yes. When the one-child policy was there in China, are you part of that one-child policy?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      10.72,
+      25.0
+    ],
+    "text": " I am. A lot of people say, oh, your government means, why have one-child policy? People should have freedom. I disagree about it. Chinese audiences. Tic-Toc. But in China is the same platform we call D'O-In.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      25.0,
+      31.0
+    ],
+    "text": " If you want to really see China media, that is a trick I just found it out.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      31.0,
+      32.0
+    ],
+    "text": " I will be definitely banned.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      32.0,
+      35.0
+    ],
+    "text": " What is the dating scene like in China?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      35.0,
+      37.0
+    ],
+    "text": " Are Chinese people romantic?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      37.0,
+      39.0
+    ],
+    "text": " I think in general or no?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      39.0,
+      40.0
+    ],
+    "text": " No.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      40.0,
+      44.0
+    ],
+    "text": " Yeah.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      44.0,
+      48.0
+    ],
+    "text": " Chinese people are super shy. More think about the business, family and make money, make money and make money.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      48.0,
+      53.0
+    ],
+    "text": " A lot of Indians. We are very curious about China, we want to learn from China.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      53.0,
+      55.0
+    ],
+    "text": " But many of us are vegetarian. We don't eat me.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      55.0,
+      65.0
+    ],
+    "text": " Ah, don't worry. You need to go to the restaurant to mansion, you're vegetarian. When I was child, I was a vegetarian. Really? I born like that.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      65.0,
+      68.0
+    ],
+    "text": " President she Jing Ping. How does he talk to public?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      68.0,
+      73.0
+    ],
+    "text": " He's quite cool guy. He's always going to different side of China",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      73.0,
+      80.8
+    ],
+    "text": " be down to the factory, to the people's family, even to the village to show the government's cares. Let's speak about",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      80.8,
+      86.96
+    ],
+    "text": " Bollywood. What we are told is that Amer Khan is very big in China. You know who is more famous right now in China?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      86.96,
+      88.12
+    ],
+    "text": " It's the billionaire.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      88.12,
+      91.28
+    ],
+    "text": " Anantam-Mani. He's got so famous in China.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      91.28,
+      93.04
+    ],
+    "text": " Everyone talk about him.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      93.04,
+      106.8
+    ],
+    "text": " Honestly, there's a lot of geopolitical tension between our two countries. Two, three years ago, there was a clash at the border, with Chinese soldiers and Indian soldiers. In India we are told that after India, China war,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      106.8,
+      108.88
+    ],
+    "text": " one part of India got taken away.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      108.88,
+      109.56
+    ],
+    "text": " Aixai Chin.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      109.56,
+      112.32
+    ],
+    "text": " To be honest, media will never know the truth.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      112.32,
+      114.04
+    ],
+    "text": " You will never know the truth.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      114.04,
+      115.32
+    ],
+    "text": " This was announced in China?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      115.32,
+      116.96
+    ],
+    "text": " Yeah, yeah, yeah, for sure.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      116.96,
+      118.04
+    ],
+    "text": " What was said?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      118.04,
+      127.64
+    ],
+    "text": " I'm quite the international open mind, but I'm really discreet really describe about this part is because they don't know what's happened in the moment in China. How does China feel about religion in general?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      127.64,
+      132.8
+    ],
+    "text": " We don't have a religion but mainly people believe Buddhist Buddhist.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      132.8,
+      136.0
+    ],
+    "text": " I randomly meet a girl Chinese on the street.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      136.0,
+      141.68
+    ],
+    "text": " She are promoting for me Indian religion. She teaches me. Hinduism?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      141.68,
+      145.0
+    ],
+    "text": " Krishna. Wow.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      149.0,
+      152.0
+    ],
+    "text": " This was one of the most fun episodes of the year for me. It features Yuen Lee or Mary Lee.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      152.0,
+      153.0
+    ],
+    "text": " She's an entrepreneur from China.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      153.0,
+      155.0
+    ],
+    "text": " She's currently based in Dubai.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      155.0,
+      157.0
+    ],
+    "text": " She's been in Dubai for the last eight years.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      157.0,
+      164.0
+    ],
+    "text": " She's one of the most charismatic people that I met on my recent trip to Singapore.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      164.0,
+      167.6
+    ],
+    "text": " We had a conversation the day prior to recording this episode",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      167.6,
+      173.12
+    ],
+    "text": " where we were just exchanging notes on India and China and I realized that this person is such a strong",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      173.12,
+      177.12
+    ],
+    "text": " personality. I have to take this person's story and",
+    "speaker": "SPEAKER_00"
+  }
+]
