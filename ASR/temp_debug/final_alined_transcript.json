@@ -1,0 +1,1236 @@
+[
+  {
+    "type": "speech",
+    "start": 0.0,
+    "end": 2.56,
+    "speaker": "SPEAKER_01",
+    "text": "You have reached the essence of Oregon."
+  },
+  {
+    "type": "silence",
+    "start": 2.56,
+    "end": 2.74
+  },
+  {
+    "type": "speech",
+    "start": 2.74,
+    "end": 3.34,
+    "speaker": "SPEAKER_01",
+    "text": "This is Donna."
+  },
+  {
+    "type": "silence",
+    "start": 3.34,
+    "end": 3.52
+  },
+  {
+    "type": "speech",
+    "start": 3.52,
+    "end": 5.68,
+    "speaker": "SPEAKER_01",
+    "text": "I'll be assisting you with your inquiries today."
+  },
+  {
+    "type": "silence",
+    "start": 5.68,
+    "end": 6.18
+  },
+  {
+    "type": "speech",
+    "start": 6.18,
+    "end": 10.84,
+    "speaker": "SPEAKER_01",
+    "text": "Please be informed that this call is being recorded and monitored for quality assurance purposes."
+  },
+  {
+    "type": "silence",
+    "start": 10.84,
+    "end": 11.0
+  },
+  {
+    "type": "speech",
+    "start": 11.0,
+    "end": 11.82,
+    "speaker": "SPEAKER_01",
+    "text": "How may I help you?"
+  },
+  {
+    "type": "silence",
+    "start": 11.82,
+    "end": 14.32
+  },
+  {
+    "type": "speech",
+    "start": 14.32,
+    "end": 26.88,
+    "speaker": "SPEAKER_00",
+    "text": "Well, I got this essence of organ oil for shipping handling and handling costs of $599, a sample of it."
+  },
+  {
+    "type": "silence",
+    "start": 26.88,
+    "end": 27.56
+  },
+  {
+    "type": "speech",
+    "start": 27.56,
+    "end": 34.92,
+    "speaker": "SPEAKER_00",
+    "text": "And if I want to cancel the order, I had to do it within 15 days."
+  },
+  {
+    "type": "silence",
+    "start": 34.92,
+    "end": 35.8
+  },
+  {
+    "type": "speech",
+    "start": 35.8,
+    "end": 40.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so that is what I wanted to do."
+  },
+  {
+    "type": "silence",
+    "start": 40.0,
+    "end": 40.14
+  },
+  {
+    "type": "speech",
+    "start": 40.14,
+    "end": 48.26,
+    "speaker": "unknown",
+    "text": "I didn't want to get, you know, like a monthly for, what is it, $83 a month?"
+  },
+  {
+    "type": "silence",
+    "start": 48.26,
+    "end": 49.02
+  },
+  {
+    "type": "speech",
+    "start": 49.02,
+    "end": 49.54,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 49.54,
+    "end": 49.98
+  },
+  {
+    "type": "speech",
+    "start": 49.98,
+    "end": 51.32,
+    "speaker": "SPEAKER_00",
+    "text": "I can't afford that."
+  },
+  {
+    "type": "silence",
+    "start": 51.32,
+    "end": 51.86
+  },
+  {
+    "type": "speech",
+    "start": 51.86,
+    "end": 52.2,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 52.2,
+    "end": 52.28
+  },
+  {
+    "type": "speech",
+    "start": 52.28,
+    "end": 53.38,
+    "speaker": "SPEAKER_01",
+    "text": "I'm more than half of me."
+  },
+  {
+    "type": "silence",
+    "start": 53.38,
+    "end": 53.5
+  },
+  {
+    "type": "speech",
+    "start": 53.5,
+    "end": 55.28,
+    "speaker": "SPEAKER_01",
+    "text": "I'm happy to assist you."
+  },
+  {
+    "type": "silence",
+    "start": 55.28,
+    "end": 56.06
+  },
+  {
+    "type": "speech",
+    "start": 56.06,
+    "end": 61.7,
+    "speaker": "SPEAKER_01",
+    "text": "For me to be able to pull up your subscription here, could you kind of provide me your first and your last name?"
+  },
+  {
+    "type": "silence",
+    "start": 61.7,
+    "end": 63.7
+  },
+  {
+    "type": "speech",
+    "start": 63.7,
+    "end": 67.9,
+    "speaker": "SPEAKER_00",
+    "text": "Carolyn, C-A-R-O-L-Y-N, Lake, L-A-K-E."
+  },
+  {
+    "type": "silence",
+    "start": 67.9,
+    "end": 68.6
+  },
+  {
+    "type": "speech",
+    "start": 68.6,
+    "end": 69.68,
+    "speaker": "SPEAKER_01",
+    "text": "O-L-Y-N."
+  },
+  {
+    "type": "silence",
+    "start": 69.68,
+    "end": 71.54
+  },
+  {
+    "type": "speech",
+    "start": 71.54,
+    "end": 72.5,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "type": "silence",
+    "start": 72.5,
+    "end": 73.5
+  },
+  {
+    "type": "speech",
+    "start": 73.5,
+    "end": 74.38,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "type": "silence",
+    "start": 74.38,
+    "end": 75.84
+  },
+  {
+    "type": "speech",
+    "start": 75.84,
+    "end": 92.48,
+    "speaker": "unknown",
+    "text": "Okay, let's just go ahead to pull up here, a subscription here, or your account."
+  },
+  {
+    "type": "silence",
+    "start": 92.48,
+    "end": 95.14
+  },
+  {
+    "type": "speech",
+    "start": 95.14,
+    "end": 96.96,
+    "speaker": "unknown",
+    "text": "And could you going to verify your email address, please?"
+  },
+  {
+    "type": "silence",
+    "start": 96.96,
+    "end": 101.16
+  },
+  {
+    "type": "speech",
+    "start": 101.16,
+    "end": 101.36,
+    "speaker": "unknown",
+    "text": "It's Lake 3921 at hotmail.com."
+  },
+  {
+    "type": "silence",
+    "start": 101.36,
+    "end": 102.84
+  },
+  {
+    "type": "speech",
+    "start": 102.84,
+    "end": 104.94,
+    "speaker": "unknown",
+    "text": "How about your shipping address?"
+  },
+  {
+    "type": "silence",
+    "start": 104.94,
+    "end": 107.66
+  },
+  {
+    "type": "speech",
+    "start": 107.66,
+    "end": 113.96,
+    "speaker": "unknown",
+    "text": "310, Warren Avenue, number two Avenue number two Gillette Wyoming 82716 and is your shipping address same as your billing"
+  },
+  {
+    "type": "speech",
+    "start": 113.96,
+    "end": 117.96,
+    "speaker": "unknown",
+    "text": "address correct how about your phone number?"
+  },
+  {
+    "type": "speech",
+    "start": 117.96,
+    "end": 125.94,
+    "speaker": "SPEAKER_00",
+    "text": "307 680 2068 okay thank you very much for that information, Ms. Lake."
+  },
+  {
+    "type": "silence",
+    "start": 125.94,
+    "end": 126.02
+  },
+  {
+    "type": "speech",
+    "start": 126.02,
+    "end": 127.14,
+    "speaker": "SPEAKER_01",
+    "text": "If you don't want me asking me,"
+  },
+  {
+    "type": "speech",
+    "start": 127.14,
+    "end": 129.62,
+    "speaker": "SPEAKER_01",
+    "text": "the reason why you want to cancel the subscription?"
+  },
+  {
+    "type": "silence",
+    "start": 129.62,
+    "end": 131.38
+  },
+  {
+    "type": "speech",
+    "start": 131.38,
+    "end": 136.34,
+    "speaker": "SPEAKER_00",
+    "text": "Well, I just, I thought I was just getting a sample order of it,"
+  },
+  {
+    "type": "silence",
+    "start": 136.34,
+    "end": 136.58
+  },
+  {
+    "type": "speech",
+    "start": 136.58,
+    "end": 142.56,
+    "speaker": "unknown",
+    "text": "you know, all this curious to how it worked and everything."
+  },
+  {
+    "type": "silence",
+    "start": 142.56,
+    "end": 142.84
+  },
+  {
+    "type": "speech",
+    "start": 142.84,
+    "end": 145.18,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, I mean, have you already used it?"
+  },
+  {
+    "type": "speech",
+    "start": 145.18,
+    "end": 149.32,
+    "speaker": "unknown",
+    "text": "Not all of it, but I have."
+  },
+  {
+    "type": "silence",
+    "start": 149.32,
+    "end": 150.06
+  },
+  {
+    "type": "speech",
+    "start": 150.06,
+    "end": 150.5,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 150.5,
+    "end": 150.64
+  },
+  {
+    "type": "speech",
+    "start": 150.64,
+    "end": 152.34,
+    "speaker": "SPEAKER_00",
+    "text": "I have been using it, yes."
+  },
+  {
+    "type": "silence",
+    "start": 152.34,
+    "end": 152.66
+  },
+  {
+    "type": "speech",
+    "start": 152.66,
+    "end": 155.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, I do understand that, Ms. Lake."
+  },
+  {
+    "type": "silence",
+    "start": 155.04,
+    "end": 155.48
+  },
+  {
+    "type": "speech",
+    "start": 155.48,
+    "end": 162.88,
+    "speaker": "SPEAKER_01",
+    "text": "This is what I can do for you, for you to be able to maximize or enjoy the benefits of the organ."
+  },
+  {
+    "type": "silence",
+    "start": 162.88,
+    "end": 163.24
+  },
+  {
+    "type": "speech",
+    "start": 163.24,
+    "end": 168.48,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to extend your pretrial for another 15 days with no charge,"
+  },
+  {
+    "type": "silence",
+    "start": 168.48,
+    "end": 168.68
+  },
+  {
+    "type": "speech",
+    "start": 168.68,
+    "end": 175.02,
+    "speaker": "unknown",
+    "text": "so at least you do have 15 days to enjoy, you know, the amazing product."
+  },
+  {
+    "type": "silence",
+    "start": 175.02,
+    "end": 175.56
+  },
+  {
+    "type": "speech",
+    "start": 175.56,
+    "end": 181.72,
+    "speaker": "SPEAKER_01",
+    "text": "And then give us a call back before the end of that 15-day additional extension period"
+  },
+  {
+    "type": "speech",
+    "start": 181.72,
+    "end": 183.16,
+    "speaker": "SPEAKER_01",
+    "text": "to give us the feedback."
+  },
+  {
+    "type": "speech",
+    "start": 183.16,
+    "end": 185.2,
+    "speaker": "SPEAKER_01",
+    "text": "Because what I heard from you is that"
+  },
+  {
+    "type": "speech",
+    "start": 185.2,
+    "end": 192.28,
+    "speaker": "SPEAKER_01",
+    "text": "you haven't used the product that much so you're not you know here did not yet get what the"
+  },
+  {
+    "type": "speech",
+    "start": 192.28,
+    "end": 201.8,
+    "speaker": "SPEAKER_01",
+    "text": "benefits of it so that's the reason why I'm extending your period or your pretrial for you to be"
+  },
+  {
+    "type": "speech",
+    "start": 201.8,
+    "end": 206.4,
+    "speaker": "SPEAKER_01",
+    "text": "able to enjoy and discover the benefits of essence of bargain."
+  },
+  {
+    "type": "silence",
+    "start": 206.4,
+    "end": 206.96
+  },
+  {
+    "type": "speech",
+    "start": 206.96,
+    "end": 207.32,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 207.32,
+    "end": 209.12
+  },
+  {
+    "type": "speech",
+    "start": 209.12,
+    "end": 209.8,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 209.8,
+    "end": 210.8
+  },
+  {
+    "type": "speech",
+    "start": 210.8,
+    "end": 212.26,
+    "speaker": "SPEAKER_00",
+    "text": "What date would that be?"
+  },
+  {
+    "type": "silence",
+    "start": 212.26,
+    "end": 212.84
+  },
+  {
+    "type": "speech",
+    "start": 212.84,
+    "end": 214.36,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, let me check here."
+  },
+  {
+    "type": "silence",
+    "start": 214.36,
+    "end": 224.32
+  },
+  {
+    "type": "speech",
+    "start": 224.32,
+    "end": 228.5,
+    "speaker": "SPEAKER_01",
+    "text": "So you're already extended your pre-trial."
+  },
+  {
+    "type": "silence",
+    "start": 228.5,
+    "end": 228.78
+  },
+  {
+    "type": "speech",
+    "start": 228.78,
+    "end": 231.56,
+    "speaker": "SPEAKER_01",
+    "text": "It will end on August 24th."
+  },
+  {
+    "type": "silence",
+    "start": 231.56,
+    "end": 232.0
+  },
+  {
+    "type": "speech",
+    "start": 232.0,
+    "end": 235.92,
+    "speaker": "SPEAKER_01",
+    "text": "So you need to give us a call back before August 24th to give us a feedback."
+  },
+  {
+    "type": "silence",
+    "start": 235.92,
+    "end": 237.3
+  },
+  {
+    "type": "speech",
+    "start": 237.3,
+    "end": 239.88,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, what happened to the product,"
+  },
+  {
+    "type": "speech",
+    "start": 239.88,
+    "end": 244.52,
+    "speaker": "SPEAKER_01",
+    "text": "if it gives you the benefits that you need."
+  },
+  {
+    "type": "silence",
+    "start": 244.52,
+    "end": 244.68
+  },
+  {
+    "type": "speech",
+    "start": 244.68,
+    "end": 248.78,
+    "speaker": "SPEAKER_01",
+    "text": "But let's say you love the product, you like the product."
+  },
+  {
+    "type": "silence",
+    "start": 248.78,
+    "end": 248.96
+  },
+  {
+    "type": "speech",
+    "start": 248.96,
+    "end": 250.62,
+    "speaker": "SPEAKER_01",
+    "text": "You don't need to give us a call back then."
+  },
+  {
+    "type": "silence",
+    "start": 250.62,
+    "end": 250.82
+  },
+  {
+    "type": "speech",
+    "start": 250.82,
+    "end": 258.22,
+    "speaker": "SPEAKER_01",
+    "text": "It will be automatically you will be receiving another bottle for your monthly subscription."
+  },
+  {
+    "type": "silence",
+    "start": 258.22,
+    "end": 259.12
+  },
+  {
+    "type": "speech",
+    "start": 259.12,
+    "end": 268.54,
+    "speaker": "unknown",
+    "text": "And in onset of a call, I heard that you're not, you know, you're dealing about the price,"
+  },
+  {
+    "type": "silence",
+    "start": 268.54,
+    "end": 268.72
+  },
+  {
+    "type": "speech",
+    "start": 268.72,
+    "end": 270.5,
+    "speaker": "SPEAKER_01",
+    "text": "which is $83 and $80."
+  },
+  {
+    "type": "speech",
+    "start": 270.5,
+    "end": 270.76,
+    "speaker": "SPEAKER_01",
+    "text": "Right."
+  },
+  {
+    "type": "silence",
+    "start": 270.76,
+    "end": 271.18
+  },
+  {
+    "type": "speech",
+    "start": 271.18,
+    "end": 271.46,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 271.46,
+    "end": 271.86
+  },
+  {
+    "type": "speech",
+    "start": 271.86,
+    "end": 278.1,
+    "speaker": "SPEAKER_01",
+    "text": "So what I can do for you is aside from extending your pretrial for another 15 days,"
+  },
+  {
+    "type": "silence",
+    "start": 278.1,
+    "end": 278.18
+  },
+  {
+    "type": "speech",
+    "start": 278.18,
+    "end": 294.2,
+    "speaker": "SPEAKER_01",
+    "text": "I'm also giving you my employee discount, which is 20% discount. So instead of paying $83.80, you're going to pay only $67.4."
+  },
+  {
+    "type": "speech",
+    "start": 294.2,
+    "end": 295.16,
+    "speaker": "SPEAKER_01",
+    "text": "How about that?"
+  },
+  {
+    "type": "silence",
+    "start": 295.16,
+    "end": 296.32
+  },
+  {
+    "type": "speech",
+    "start": 296.32,
+    "end": 299.1,
+    "speaker": "SPEAKER_00",
+    "text": "I can't. I can't afford that."
+  },
+  {
+    "type": "silence",
+    "start": 299.1,
+    "end": 299.8
+  },
+  {
+    "type": "speech",
+    "start": 299.8,
+    "end": 304.76,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. This is my maximum employee discount."
+  },
+  {
+    "type": "silence",
+    "start": 304.76,
+    "end": 304.94
+  },
+  {
+    "type": "speech",
+    "start": 304.94,
+    "end": 307.6,
+    "speaker": "SPEAKER_01",
+    "text": "A 40% employee discount, I'll give it to you."
+  },
+  {
+    "type": "silence",
+    "start": 307.6,
+    "end": 307.66
+  },
+  {
+    "type": "speech",
+    "start": 307.66,
+    "end": 310.6,
+    "speaker": "SPEAKER_01",
+    "text": "It's actually a lifetime employee discount."
+  },
+  {
+    "type": "silence",
+    "start": 310.6,
+    "end": 310.76
+  },
+  {
+    "type": "speech",
+    "start": 310.76,
+    "end": 316.66,
+    "speaker": "SPEAKER_01",
+    "text": "So instead of paying $83.80 or just be paying $50 and $28."
+  },
+  {
+    "type": "silence",
+    "start": 316.66,
+    "end": 319.16
+  },
+  {
+    "type": "speech",
+    "start": 319.16,
+    "end": 322.02,
+    "speaker": "SPEAKER_00",
+    "text": "No, I can't. I cannot do that."
+  },
+  {
+    "type": "silence",
+    "start": 322.02,
+    "end": 322.72
+  },
+  {
+    "type": "speech",
+    "start": 322.72,
+    "end": 323.16,
+    "speaker": "SPEAKER_00",
+    "text": "I can't."
+  },
+  {
+    "type": "speech",
+    "start": 323.16,
+    "end": 324.04,
+    "speaker": "SPEAKER_00",
+    "text": "I'd like to."
+  },
+  {
+    "type": "silence",
+    "start": 324.04,
+    "end": 324.84
+  },
+  {
+    "type": "speech",
+    "start": 324.84,
+    "end": 333.9,
+    "speaker": "SPEAKER_00",
+    "text": "I wanted to ask you, too, is, how often am I supposed to use that, like, at night or?"
+  },
+  {
+    "type": "silence",
+    "start": 333.9,
+    "end": 334.1
+  },
+  {
+    "type": "speech",
+    "start": 334.1,
+    "end": 337.84,
+    "speaker": "SPEAKER_01",
+    "text": "Yes, as long as you want, ma'am. Just use it at night?"
+  },
+  {
+    "type": "silence",
+    "start": 337.84,
+    "end": 338.28
+  },
+  {
+    "type": "speech",
+    "start": 338.28,
+    "end": 344.04,
+    "speaker": "unknown",
+    "text": "Yes, as long as you want, as long as you need it. Oh, okay."
+  },
+  {
+    "type": "silence",
+    "start": 344.04,
+    "end": 344.36
+  },
+  {
+    "type": "speech",
+    "start": 344.36,
+    "end": 347.52,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, Ms. Lake, can I just put it home can i just put you yeah i can't afford"
+  },
+  {
+    "type": "speech",
+    "start": 347.52,
+    "end": 399.96,
+    "speaker": "unknown",
+    "text": "can i just put it home for a minute okay sure thank you The Thank you very much for your patients awaiting, Ms. Lake."
+  },
+  {
+    "type": "silence",
+    "start": 399.96,
+    "end": 402.08
+  },
+  {
+    "type": "speech",
+    "start": 402.08,
+    "end": 402.46,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 402.46,
+    "end": 403.1
+  },
+  {
+    "type": "speech",
+    "start": 403.1,
+    "end": 414.24,
+    "speaker": "SPEAKER_01",
+    "text": "I want to talk to my supervisor, and she asked me, what amount would you feel the product will be more affordable for you and make your continue your subscription with us?"
+  },
+  {
+    "type": "silence",
+    "start": 414.24,
+    "end": 418.44
+  },
+  {
+    "type": "speech",
+    "start": 418.44,
+    "end": 423.9,
+    "speaker": "unknown",
+    "text": "Oh. If we will ask you, do you think..."
+  },
+  {
+    "type": "speech",
+    "start": 423.9,
+    "end": 427.74,
+    "speaker": "SPEAKER_00",
+    "text": "You know, like $15."
+  },
+  {
+    "type": "silence",
+    "start": 427.74,
+    "end": 428.86
+  },
+  {
+    "type": "speech",
+    "start": 428.86,
+    "end": 430.6,
+    "speaker": "SPEAKER_00",
+    "text": "I know that's, you know, but that."
+  },
+  {
+    "type": "silence",
+    "start": 430.6,
+    "end": 431.4
+  },
+  {
+    "type": "speech",
+    "start": 431.4,
+    "end": 432.58,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, ma'am, don't worry."
+  },
+  {
+    "type": "silence",
+    "start": 432.58,
+    "end": 432.72
+  },
+  {
+    "type": "speech",
+    "start": 432.72,
+    "end": 433.28,
+    "speaker": "SPEAKER_01",
+    "text": "That's great."
+  },
+  {
+    "type": "silence",
+    "start": 433.28,
+    "end": 433.78
+  },
+  {
+    "type": "speech",
+    "start": 433.78,
+    "end": 437.62,
+    "speaker": "SPEAKER_01",
+    "text": "Because I already giving you my employee discount of 40%, right?"
+  },
+  {
+    "type": "silence",
+    "start": 437.62,
+    "end": 438.06
+  },
+  {
+    "type": "speech",
+    "start": 438.06,
+    "end": 441.52,
+    "speaker": "SPEAKER_01",
+    "text": "So my supervisor can give you another 40%."
+  },
+  {
+    "type": "speech",
+    "start": 441.52,
+    "end": 443.62,
+    "speaker": "SPEAKER_01",
+    "text": "So that's an equivalent of 80%."
+  },
+  {
+    "type": "speech",
+    "start": 443.62,
+    "end": 453.94,
+    "speaker": "SPEAKER_01",
+    "text": "So instead of paying $83 and $80, what you'll be paying is only $16.76 every month for everybody."
+  },
+  {
+    "type": "silence",
+    "start": 453.94,
+    "end": 454.12
+  },
+  {
+    "type": "speech",
+    "start": 454.12,
+    "end": 454.86,
+    "speaker": "SPEAKER_01",
+    "text": "How about that?"
+  },
+  {
+    "type": "silence",
+    "start": 454.86,
+    "end": 456.5
+  },
+  {
+    "type": "speech",
+    "start": 456.5,
+    "end": 457.56,
+    "speaker": "SPEAKER_00",
+    "text": "That sounds great."
+  },
+  {
+    "type": "silence",
+    "start": 457.56,
+    "end": 457.88
+  },
+  {
+    "type": "speech",
+    "start": 457.88,
+    "end": 458.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, that's great."
+  },
+  {
+    "type": "speech",
+    "start": 458.96,
+    "end": 465.04,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm extending your pretrial until August 24th."
+  },
+  {
+    "type": "silence",
+    "start": 465.04,
+    "end": 465.08
+  },
+  {
+    "type": "speech",
+    "start": 465.08,
+    "end": 471.72,
+    "speaker": "SPEAKER_01",
+    "text": "So after August 24th, you will be charged only $16.76."
+  },
+  {
+    "type": "silence",
+    "start": 471.72,
+    "end": 472.36
+  },
+  {
+    "type": "speech",
+    "start": 472.36,
+    "end": 472.76,
+    "speaker": "SPEAKER_01",
+    "text": "Okay?"
+  },
+  {
+    "type": "silence",
+    "start": 472.76,
+    "end": 473.06
+  },
+  {
+    "type": "speech",
+    "start": 473.06,
+    "end": 479.46,
+    "speaker": "SPEAKER_01",
+    "text": "So every month you will be paying, I mean, you will be receiving a bottle of essence of Argonne"
+  },
+  {
+    "type": "speech",
+    "start": 479.46,
+    "end": 483.72,
+    "speaker": "SPEAKER_01",
+    "text": "and you will be enjoying the benefits of the product,"
+  },
+  {
+    "type": "speech",
+    "start": 483.72,
+    "end": 489.26,
+    "speaker": "SPEAKER_01",
+    "text": "but you will be only paying $16.76. Okay."
+  },
+  {
+    "type": "silence",
+    "start": 489.26,
+    "end": 490.9
+  },
+  {
+    "type": "speech",
+    "start": 490.9,
+    "end": 491.4,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 491.4,
+    "end": 492.08
+  },
+  {
+    "type": "speech",
+    "start": 492.08,
+    "end": 499.26,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, then. So that's great. So just for a recap, Ms. Lake, I extended your pre-trial"
+  },
+  {
+    "type": "speech",
+    "start": 499.26,
+    "end": 509.72,
+    "speaker": "SPEAKER_01",
+    "text": "for another 15 days, and it's going to be end on August 24th. So you can give us a call back within that period of time to give us a feedback."
+  },
+  {
+    "type": "silence",
+    "start": 509.72,
+    "end": 510.38
+  },
+  {
+    "type": "speech",
+    "start": 510.38,
+    "end": 515.68,
+    "speaker": "SPEAKER_01",
+    "text": "But like what I said, if you enjoy the product, it gives you the benefits, the amazing"
+  },
+  {
+    "type": "speech",
+    "start": 515.68,
+    "end": 517.08,
+    "speaker": "SPEAKER_01",
+    "text": "benefits of the product."
+  },
+  {
+    "type": "silence",
+    "start": 517.08,
+    "end": 517.24
+  },
+  {
+    "type": "speech",
+    "start": 517.24,
+    "end": 518.56,
+    "speaker": "SPEAKER_01",
+    "text": "You don't need to give us a call back."
+  },
+  {
+    "type": "silence",
+    "start": 518.56,
+    "end": 518.62
+  },
+  {
+    "type": "speech",
+    "start": 518.62,
+    "end": 519.66,
+    "speaker": "SPEAKER_01",
+    "text": "It will be automatically."
+  },
+  {
+    "type": "silence",
+    "start": 519.66,
+    "end": 520.08
+  },
+  {
+    "type": "speech",
+    "start": 520.08,
+    "end": 532.5,
+    "speaker": "SPEAKER_01",
+    "text": "You will be receiving a subscription every month, but you will be only paying $16.76 because you already give you our employee discount of 80% for lifetime."
+  },
+  {
+    "type": "silence",
+    "start": 532.5,
+    "end": 532.8
+  },
+  {
+    "type": "speech",
+    "start": 532.8,
+    "end": 533.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 533.04,
+    "end": 534.66
+  },
+  {
+    "type": "speech",
+    "start": 534.66,
+    "end": 535.96,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. All right."
+  },
+  {
+    "type": "silence",
+    "start": 535.96,
+    "end": 536.16
+  },
+  {
+    "type": "speech",
+    "start": 536.16,
+    "end": 536.94,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, then."
+  },
+  {
+    "type": "silence",
+    "start": 536.94,
+    "end": 537.0
+  },
+  {
+    "type": "speech",
+    "start": 537.0,
+    "end": 539.64,
+    "speaker": "SPEAKER_01",
+    "text": "So is there anything else you can help you with?"
+  },
+  {
+    "type": "silence",
+    "start": 539.64,
+    "end": 541.5
+  },
+  {
+    "type": "speech",
+    "start": 541.5,
+    "end": 543.26,
+    "speaker": "SPEAKER_00",
+    "text": "No, that would be it."
+  },
+  {
+    "type": "silence",
+    "start": 543.26,
+    "end": 543.64
+  },
+  {
+    "type": "speech",
+    "start": 543.64,
+    "end": 544.34,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, then."
+  },
+  {
+    "type": "silence",
+    "start": 544.34,
+    "end": 544.44
+  },
+  {
+    "type": "speech",
+    "start": 544.44,
+    "end": 548.44,
+    "speaker": "SPEAKER_01",
+    "text": "So we value your business. Thank you for calling Essence of Oregon. Have a great day."
+  },
+  {
+    "type": "silence",
+    "start": 548.44,
+    "end": 549.94
+  },
+  {
+    "type": "speech",
+    "start": 549.94,
+    "end": 551.24,
+    "speaker": "SPEAKER_00",
+    "text": "You too. Bye-bye."
+  },
+  {
+    "type": "silence",
+    "start": 551.24,
+    "end": 566.496
+  }
+]

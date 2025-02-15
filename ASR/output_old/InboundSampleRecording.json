@@ -1,0 +1,898 @@
+[
+  {
+    "timestamp": [
+      0.0,
+      2.56
+    ],
+    "text": " You have reached the essence of Oregon.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      2.74,
+      3.34
+    ],
+    "text": " This is Donna.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      3.52,
+      5.68
+    ],
+    "text": " I'll be assisting you with your inquiries today.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      6.18,
+      10.84
+    ],
+    "text": " Please be informed that this call is being recorded and monitored for quality assurance purposes.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      11.0,
+      11.82
+    ],
+    "text": " How may I help you?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      14.32,
+      26.88
+    ],
+    "text": " Well, I got this essence of organ oil for shipping handling and handling costs of $599, a sample of it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      27.56,
+      34.92
+    ],
+    "text": " And if I want to cancel the order, I had to do it within 15 days.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      35.8,
+      40.0
+    ],
+    "text": " And so that is what I wanted to do.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      40.14,
+      48.26
+    ],
+    "text": " I didn't want to get, you know, like a monthly for, what is it, $83 a month?",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      49.02,
+      49.54
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      49.98,
+      51.32
+    ],
+    "text": " I can't afford that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      51.86,
+      52.2
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      52.28,
+      53.38
+    ],
+    "text": " I'm more than half of me.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      53.5,
+      55.28
+    ],
+    "text": " I'm happy to assist you.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      56.06,
+      61.7
+    ],
+    "text": " For me to be able to pull up your subscription here, could you kind of provide me your first and your last name?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      63.7,
+      67.9
+    ],
+    "text": " Carolyn, C-A-R-O-L-Y-N, Lake, L-A-K-E.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      68.6,
+      69.68
+    ],
+    "text": " O-L-Y-N.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      71.54,
+      72.5
+    ],
+    "text": " Yes.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      73.5,
+      74.38
+    ],
+    "text": " Yes.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      75.84,
+      92.48
+    ],
+    "text": " Okay, let's just go ahead to pull up here, a subscription here, or your account.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      95.14,
+      96.96
+    ],
+    "text": " And could you going to verify your email address, please?",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      101.16,
+      101.36
+    ],
+    "text": " It's Lake 3921 at hotmail.com.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      102.84,
+      104.94
+    ],
+    "text": " How about your shipping address?",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      107.66,
+      113.96
+    ],
+    "text": " 310, Warren Avenue, number two Avenue number two Gillette Wyoming 82716 and is your shipping address same as your billing",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      113.96,
+      117.96
+    ],
+    "text": " address correct how about your phone number?",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      117.96,
+      125.94
+    ],
+    "text": " 307 680 2068 okay thank you very much for that information, Ms. Lake.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      126.02,
+      127.14
+    ],
+    "text": " If you don't want me asking me,",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      127.14,
+      129.62
+    ],
+    "text": " the reason why you want to cancel the subscription?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      131.38,
+      136.34
+    ],
+    "text": " Well, I just, I thought I was just getting a sample order of it,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      136.58,
+      142.56
+    ],
+    "text": " you know, all this curious to how it worked and everything.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      142.84,
+      145.18
+    ],
+    "text": " Yes, I mean, have you already used it?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      145.18,
+      149.32
+    ],
+    "text": " Not all of it, but I have.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      150.06,
+      150.5
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      150.64,
+      152.34
+    ],
+    "text": " I have been using it, yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      152.66,
+      155.04
+    ],
+    "text": " Okay, I do understand that, Ms. Lake.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      155.48,
+      162.88
+    ],
+    "text": " This is what I can do for you, for you to be able to maximize or enjoy the benefits of the organ.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      163.24,
+      168.48
+    ],
+    "text": " I'm going to extend your pretrial for another 15 days with no charge,",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      168.68,
+      175.02
+    ],
+    "text": " so at least you do have 15 days to enjoy, you know, the amazing product.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      175.56,
+      181.72
+    ],
+    "text": " And then give us a call back before the end of that 15-day additional extension period",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      181.72,
+      183.16
+    ],
+    "text": " to give us the feedback.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      183.16,
+      185.2
+    ],
+    "text": " Because what I heard from you is that",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      185.2,
+      192.28
+    ],
+    "text": " you haven't used the product that much so you're not you know here did not yet get what the",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      192.28,
+      201.8
+    ],
+    "text": " benefits of it so that's the reason why I'm extending your period or your pretrial for you to be",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      201.8,
+      206.4
+    ],
+    "text": " able to enjoy and discover the benefits of essence of bargain.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      206.96,
+      207.32
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      209.12,
+      209.8
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      210.8,
+      212.26
+    ],
+    "text": " What date would that be?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      212.84,
+      214.36
+    ],
+    "text": " Okay, let me check here.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      224.32,
+      228.5
+    ],
+    "text": " So you're already extended your pre-trial.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      228.78,
+      231.56
+    ],
+    "text": " It will end on August 24th.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      232.0,
+      235.92
+    ],
+    "text": " So you need to give us a call back before August 24th to give us a feedback.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      237.3,
+      239.88
+    ],
+    "text": " I mean, what happened to the product,",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      239.88,
+      244.52
+    ],
+    "text": " if it gives you the benefits that you need.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      244.68,
+      248.78
+    ],
+    "text": " But let's say you love the product, you like the product.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      248.96,
+      250.62
+    ],
+    "text": " You don't need to give us a call back then.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      250.82,
+      258.22
+    ],
+    "text": " It will be automatically you will be receiving another bottle for your monthly subscription.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      259.12,
+      268.54
+    ],
+    "text": " And in onset of a call, I heard that you're not, you know, you're dealing about the price,",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      268.72,
+      270.5
+    ],
+    "text": " which is $83 and $80.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      270.5,
+      270.76
+    ],
+    "text": " Right.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      271.18,
+      271.46
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      271.86,
+      278.1
+    ],
+    "text": " So what I can do for you is aside from extending your pretrial for another 15 days,",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      278.18,
+      294.2
+    ],
+    "text": " I'm also giving you my employee discount, which is 20% discount. So instead of paying $83.80, you're going to pay only $67.4.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      294.2,
+      295.16
+    ],
+    "text": " How about that?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      296.32,
+      299.1
+    ],
+    "text": " I can't. I can't afford that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      299.8,
+      304.76
+    ],
+    "text": " Okay. This is my maximum employee discount.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      304.94,
+      307.6
+    ],
+    "text": " A 40% employee discount, I'll give it to you.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      307.66,
+      310.6
+    ],
+    "text": " It's actually a lifetime employee discount.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      310.76,
+      316.66
+    ],
+    "text": " So instead of paying $83.80 or just be paying $50 and $28.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      319.16,
+      322.02
+    ],
+    "text": " No, I can't. I cannot do that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      322.72,
+      323.16
+    ],
+    "text": " I can't.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      323.16,
+      324.04
+    ],
+    "text": " I'd like to.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      324.84,
+      333.9
+    ],
+    "text": " I wanted to ask you, too, is, how often am I supposed to use that, like, at night or?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      334.1,
+      337.84
+    ],
+    "text": " Yes, as long as you want, ma'am. Just use it at night?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      338.28,
+      344.04
+    ],
+    "text": " Yes, as long as you want, as long as you need it. Oh, okay.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      344.36,
+      347.52
+    ],
+    "text": " Okay, Ms. Lake, can I just put it home can i just put you yeah i can't afford",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      347.52,
+      399.96
+    ],
+    "text": " can i just put it home for a minute okay sure thank you The Thank you very much for your patients awaiting, Ms. Lake.",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      402.08,
+      402.46
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      403.1,
+      414.24
+    ],
+    "text": " I want to talk to my supervisor, and she asked me, what amount would you feel the product will be more affordable for you and make your continue your subscription with us?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      418.44,
+      423.9
+    ],
+    "text": " Oh. If we will ask you, do you think...",
+    "speaker": "unknown"
+  },
+  {
+    "timestamp": [
+      423.9,
+      427.74
+    ],
+    "text": " You know, like $15.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      428.86,
+      430.6
+    ],
+    "text": " I know that's, you know, but that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      431.4,
+      432.58
+    ],
+    "text": " Okay, ma'am, don't worry.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      432.72,
+      433.28
+    ],
+    "text": " That's great.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      433.78,
+      437.62
+    ],
+    "text": " Because I already giving you my employee discount of 40%, right?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      438.06,
+      441.52
+    ],
+    "text": " So my supervisor can give you another 40%.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      441.52,
+      443.62
+    ],
+    "text": " So that's an equivalent of 80%.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      443.62,
+      453.94
+    ],
+    "text": " So instead of paying $83 and $80, what you'll be paying is only $16.76 every month for everybody.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      454.12,
+      454.86
+    ],
+    "text": " How about that?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      456.5,
+      457.56
+    ],
+    "text": " That sounds great.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      457.88,
+      458.96
+    ],
+    "text": " Okay, that's great.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      458.96,
+      465.04
+    ],
+    "text": " So I'm extending your pretrial until August 24th.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      465.08,
+      471.72
+    ],
+    "text": " So after August 24th, you will be charged only $16.76.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      472.36,
+      472.76
+    ],
+    "text": " Okay?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      473.06,
+      479.46
+    ],
+    "text": " So every month you will be paying, I mean, you will be receiving a bottle of essence of Argonne",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      479.46,
+      483.72
+    ],
+    "text": " and you will be enjoying the benefits of the product,",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      483.72,
+      489.26
+    ],
+    "text": " but you will be only paying $16.76. Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      490.9,
+      491.4
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      492.08,
+      499.26
+    ],
+    "text": " Okay, then. So that's great. So just for a recap, Ms. Lake, I extended your pre-trial",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      499.26,
+      509.72
+    ],
+    "text": " for another 15 days, and it's going to be end on August 24th. So you can give us a call back within that period of time to give us a feedback.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      510.38,
+      515.68
+    ],
+    "text": " But like what I said, if you enjoy the product, it gives you the benefits, the amazing",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      515.68,
+      517.08
+    ],
+    "text": " benefits of the product.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      517.24,
+      518.56
+    ],
+    "text": " You don't need to give us a call back.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      518.62,
+      519.66
+    ],
+    "text": " It will be automatically.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      520.08,
+      532.5
+    ],
+    "text": " You will be receiving a subscription every month, but you will be only paying $16.76 because you already give you our employee discount of 80% for lifetime.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      532.8,
+      533.04
+    ],
+    "text": " Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      534.66,
+      535.96
+    ],
+    "text": " Okay. All right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      536.16,
+      536.94
+    ],
+    "text": " Okay, then.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      537.0,
+      539.64
+    ],
+    "text": " So is there anything else you can help you with?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      541.5,
+      543.26
+    ],
+    "text": " No, that would be it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "timestamp": [
+      543.64,
+      544.34
+    ],
+    "text": " Okay, then.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      544.44,
+      548.44
+    ],
+    "text": " So we value your business. Thank you for calling Essence of Oregon. Have a great day.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "timestamp": [
+      549.94,
+      551.24
+    ],
+    "text": " You too. Bye-bye.",
+    "speaker": "SPEAKER_00"
+  }
+]

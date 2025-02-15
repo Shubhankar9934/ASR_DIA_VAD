@@ -1,0 +1,849 @@
+[
+  {
+    "timestamp": [
+      0.0,
+      3.0
+    ],
+    "text": " Hello, may I please come with Anthony?"
+  },
+  {
+    "timestamp": [
+      3.0,
+      4.0
+    ],
+    "text": " Hello."
+  },
+  {
+    "timestamp": [
+      4.0,
+      5.0
+    ],
+    "text": " This is Anthony."
+  },
+  {
+    "timestamp": [
+      5.0,
+      6.0
+    ],
+    "text": " Hi Anthony."
+  },
+  {
+    "timestamp": [
+      6.0,
+      11.0
+    ],
+    "text": " The name is Jeff and I'm calling on behalf of education experts from a quality"
+  },
+  {
+    "timestamp": [
+      11.0,
+      12.0
+    ],
+    "text": " monitor line."
+  },
+  {
+    "timestamp": [
+      12.0,
+      13.0
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      13.0,
+      18.0
+    ],
+    "text": " And I see here that you recently filled the form on the Internet indicating an interest in earning a degree."
+  },
+  {
+    "timestamp": [
+      18.0,
+      19.0
+    ],
+    "text": " Yes."
+  },
+  {
+    "timestamp": [
+      19.0,
+      20.0
+    ],
+    "text": " Yes."
+  },
+  {
+    "timestamp": [
+      20.0,
+      25.4
+    ],
+    "text": " I only need a few moments of time to match you with the most appropriate schools."
+  },
+  {
+    "timestamp": [
+      25.84,
+      27.72
+    ],
+    "text": " Are you at least 18 years of age?"
+  },
+  {
+    "timestamp": [
+      28.52,
+      29.4
+    ],
+    "text": " Yeah, I'm 29."
+  },
+  {
+    "timestamp": [
+      30.12,
+      30.56
+    ],
+    "text": " 29."
+  },
+  {
+    "timestamp": [
+      30.88,
+      31.04
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      31.12,
+      33.6
+    ],
+    "text": " Do you currently have a high school diploma or a GED?"
+  },
+  {
+    "timestamp": [
+      34.16,
+      34.68
+    ],
+    "text": " Yes, I do."
+  },
+  {
+    "timestamp": [
+      36.04,
+      37.12
+    ],
+    "text": " Okay, thank you, Anthony."
+  },
+  {
+    "timestamp": [
+      37.26,
+      39.78
+    ],
+    "text": " And if we can find a school for you that meets your needs,"
+  },
+  {
+    "timestamp": [
+      40.22,
+      43.26
+    ],
+    "text": " would you be interested in furthering your education in the next experience?"
+  },
+  {
+    "timestamp": [
+      43.26,
+      43.88
+    ],
+    "text": " Yeah, of course."
+  },
+  {
+    "timestamp": [
+      44.28,
+      46.96
+    ],
+    "text": " The course I'd like to take up would be computer engineering."
+  },
+  {
+    "timestamp": [
+      47.88,
+      49.08
+    ],
+    "text": " Computer engineering, okay?"
+  },
+  {
+    "timestamp": [
+      50.84,
+      55.9
+    ],
+    "text": " And, Anthony, I only knew a few moments of your time."
+  },
+  {
+    "timestamp": [
+      56.32,
+      56.6
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      57.72,
+      61.96
+    ],
+    "text": " To verify your information, your first name is Anthony, and your last name is Bella."
+  },
+  {
+    "timestamp": [
+      62.12,
+      62.6
+    ],
+    "text": " Is this correct?"
+  },
+  {
+    "timestamp": [
+      63.18,
+      63.52
+    ],
+    "text": " Yes."
+  },
+  {
+    "timestamp": [
+      64.82,
+      65.0
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      65.0,
+      73.0
+    ],
+    "text": " Anthony, now if I may ask, if we can find school for you that needs your needs, would you be interested in furthering your education in the next six months?"
+  },
+  {
+    "timestamp": [
+      73.0,
+      74.0
+    ],
+    "text": " Yes."
+  },
+  {
+    "timestamp": [
+      74.0,
+      75.0
+    ],
+    "text": " Definitely."
+  },
+  {
+    "timestamp": [
+      75.0,
+      76.0
+    ],
+    "text": " Thank you, Anthony."
+  },
+  {
+    "timestamp": [
+      76.0,
+      77.0
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      77.0,
+      82.0
+    ],
+    "text": " Could you please verify your complete address, including the city, state, and the zip code?"
+  },
+  {
+    "timestamp": [
+      82.0,
+      85.72
+    ],
+    "text": " All right, it's 19.05 Bramblewood"
+  },
+  {
+    "timestamp": [
+      85.72,
+      87.7
+    ],
+    "text": " Drive."
+  },
+  {
+    "timestamp": [
+      88.64,
+      89.36
+    ],
+    "text": " St. Cloud,"
+  },
+  {
+    "timestamp": [
+      90.08,
+      93.98
+    ],
+    "text": " Florida, 34769."
+  },
+  {
+    "timestamp": [
+      96.32,
+      96.9
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      97.16,
+      98.06
+    ],
+    "text": " Is the street number"
+  },
+  {
+    "timestamp": [
+      98.06,
+      99.62
+    ],
+    "text": " 1905?"
+  },
+  {
+    "timestamp": [
+      100.22,
+      102.04
+    ],
+    "text": " Yeah, 1905."
+  },
+  {
+    "timestamp": [
+      102.6,
+      104.66
+    ],
+    "text": " And the street name is Bramblewood,"
+  },
+  {
+    "timestamp": [
+      105.26,
+      105.46
+    ],
+    "text": " drive? Is that correct? That's correct. Okay. Okay, so it's,905. And the street name is Bramblewood Drive? Yep."
+  },
+  {
+    "timestamp": [
+      105.7,
+      106.18
+    ],
+    "text": " Is that correct?"
+  },
+  {
+    "timestamp": [
+      106.32,
+      107.24
+    ],
+    "text": " That's correct."
+  },
+  {
+    "timestamp": [
+      107.32,
+      107.52
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      108.02,
+      115.04
+    ],
+    "text": " Okay, so it's 1905 Bramblewood Drive, St. Cloud, Florida 34769."
+  },
+  {
+    "timestamp": [
+      115.56,
+      116.08
+    ],
+    "text": " Is that correct?"
+  },
+  {
+    "timestamp": [
+      116.66,
+      116.88
+    ],
+    "text": " Yeah."
+  },
+  {
+    "timestamp": [
+      117.0,
+      117.42
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      117.92,
+      120.1
+    ],
+    "text": " And could you please verify your email address?"
+  },
+  {
+    "timestamp": [
+      120.68,
+      124.42
+    ],
+    "text": " It's Pella, Anthony at yahoo.com."
+  },
+  {
+    "timestamp": [
+      126.5,
+      128.54
+    ],
+    "text": " It's all one word. Thank you so much for the verification."
+  },
+  {
+    "timestamp": [
+      129.18,
+      129.42
+    ],
+    "text": " Yeah."
+  },
+  {
+    "timestamp": [
+      129.9,
+      132.92
+    ],
+    "text": " Now, you mentioned computer engineering, right?"
+  },
+  {
+    "timestamp": [
+      133.34,
+      133.64
+    ],
+    "text": " Mm-hmm."
+  },
+  {
+    "timestamp": [
+      134.76,
+      137.72
+    ],
+    "text": " Okay, may I ask, what degree type were you looking to obtain?"
+  },
+  {
+    "timestamp": [
+      137.82,
+      138.62
+    ],
+    "text": " Is it an associate?"
+  },
+  {
+    "timestamp": [
+      140.02,
+      141.48
+    ],
+    "text": " Whatever I need to do."
+  },
+  {
+    "timestamp": [
+      141.64,
+      144.1
+    ],
+    "text": " If I get in the first door, I do associate,"
+  },
+  {
+    "timestamp": [
+      144.1,
+      146.4
+    ],
+    "text": " it's probably moving my way up the ladder, you know?"
+  },
+  {
+    "timestamp": [
+      146.86,
+      147.26
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      147.5,
+      149.32
+    ],
+    "text": " Get my first one and then keep on going."
+  },
+  {
+    "timestamp": [
+      150.1,
+      150.4
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      151.32,
+      155.42
+    ],
+    "text": " So, would be an associate degree for the moment?"
+  },
+  {
+    "timestamp": [
+      156.02,
+      156.32
+    ],
+    "text": " Yep."
+  },
+  {
+    "timestamp": [
+      157.16,
+      157.36
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      159.2,
+      159.64
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      159.64,
+      160.64
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      160.64,
+      163.36
+    ],
+    "text": " Anthony, you've mentioned that you're 21, I'm sorry, 29 years old."
+  },
+  {
+    "timestamp": [
+      163.78,
+      165.14
+    ],
+    "text": " Now, if I may ask,"
+  },
+  {
+    "timestamp": [
+      167.42,
+      170.06
+    ],
+    "text": " what's the highest level of education, Jacob?"
+  },
+  {
+    "timestamp": [
+      170.1,
+      173.4
+    ],
+    "text": " I dropped out when I was in the 11th grade,"
+  },
+  {
+    "timestamp": [
+      173.7,
+      174.88
+    ],
+    "text": " and I started doing plumbing."
+  },
+  {
+    "timestamp": [
+      175.06,
+      177.08
+    ],
+    "text": " I've actually been doing plumbing for 13 years."
+  },
+  {
+    "timestamp": [
+      177.58,
+      178.56
+    ],
+    "text": " I'm a registered apprentice."
+  },
+  {
+    "timestamp": [
+      178.78,
+      179.96
+    ],
+    "text": " I actually only have to take the test"
+  },
+  {
+    "timestamp": [
+      179.96,
+      184.36
+    ],
+    "text": " to become a journeyman to open my own company,"
+  },
+  {
+    "timestamp": [
+      184.48,
+      186.28
+    ],
+    "text": " and I'm not too fond of plumbing."
+  },
+  {
+    "timestamp": [
+      186.64,
+      189.76
+    ],
+    "text": " You know what I'm saying? I need some. I want to do something else besides plumbing for the"
+  },
+  {
+    "timestamp": [
+      189.76,
+      195.9
+    ],
+    "text": " rest of my life. Okay. And do you have a diploma or a GED? I have a GED."
+  },
+  {
+    "timestamp": [
+      196.3,
+      201.78
+    ],
+    "text": " GED, okay. And what year did you obtain your GED?"
+  },
+  {
+    "timestamp": [
+      202.32,
+      204.68
+    ],
+    "text": " In 1999. 1999."
+  },
+  {
+    "timestamp": [
+      207.0,
+      213.0
+    ],
+    "text": " Okay. And for your class, preference, would it be online on campus or?"
+  },
+  {
+    "timestamp": [
+      213.0,
+      215.0
+    ],
+    "text": " Probably be campus."
+  },
+  {
+    "timestamp": [
+      215.0,
+      216.0
+    ],
+    "text": " Probably be campus."
+  },
+  {
+    "timestamp": [
+      216.0,
+      218.0
+    ],
+    "text": " Campus, okay."
+  },
+  {
+    "timestamp": [
+      218.0,
+      226.5
+    ],
+    "text": " And just in case we'll not be able to find a campus-based school, would you be okay with an online school?"
+  },
+  {
+    "timestamp": [
+      227.2,
+      227.5
+    ],
+    "text": " Yeah."
+  },
+  {
+    "timestamp": [
+      228.24,
+      228.6
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      230.76,
+      232.5
+    ],
+    "text": " And are you a United States citizen?"
+  },
+  {
+    "timestamp": [
+      233.3,
+      234.0
+    ],
+    "text": " Yes, I am."
+  },
+  {
+    "timestamp": [
+      235.0,
+      235.4
+    ],
+    "text": " Thank you."
+  },
+  {
+    "timestamp": [
+      235.5,
+      237.6
+    ],
+    "text": " And are you associated with the United States military?"
+  },
+  {
+    "timestamp": [
+      238.3,
+      238.8
+    ],
+    "text": " What was that?"
+  },
+  {
+    "timestamp": [
+      239.66,
+      242.7
+    ],
+    "text": " I'm sorry, are you associated with the United States military?"
+  },
+  {
+    "timestamp": [
+      243.3,
+      243.9
+    ],
+    "text": " No, I'm not."
+  },
+  {
+    "timestamp": [
+      247.24,
+      253.16
+    ],
+    "text": " Okay. And what would be the best time for a school enrollment counselor to contact you, sit in the morning, afternoon, or evening?"
+  },
+  {
+    "timestamp": [
+      255.62,
+      257.02
+    ],
+    "text": " Pretty much any time in the day."
+  },
+  {
+    "timestamp": [
+      259.8,
+      261.72
+    ],
+    "text": " And what is your exact date of prayer?"
+  },
+  {
+    "timestamp": [
+      262.36,
+      263.32
+    ],
+    "text": " 10, 15, 80."
+  },
+  {
+    "timestamp": [
+      265.64,
+      269.68
+    ],
+    "text": " So that would be 12.15, 1980?"
+  },
+  {
+    "timestamp": [
+      270.26,
+      270.88
+    ],
+    "text": " That's correct."
+  },
+  {
+    "timestamp": [
+      273.0,
+      273.4
+    ],
+    "text": " Okay."
+  },
+  {
+    "timestamp": [
+      274.32,
+      274.88
+    ],
+    "text": " Okay, Anthony."
+  },
+  {
+    "timestamp": [
+      276.56,
+      280.04
+    ],
+    "text": " If we can find school for you that Neat Your Neat School Enrollment Castors"
+  },
+  {
+    "timestamp": [
+      280.04,
+      282.88
+    ],
+    "text": " will be contacting you in the near future,"
+  },
+  {
+    "timestamp": [
+      283.24,
+      284.88
+    ],
+    "text": " either by phone or by email,"
+  },
+  {
+    "timestamp": [
+      285.02,
+      286.78
+    ],
+    "text": " and they can answer any questions you may have"
+  },
+  {
+    "timestamp": [
+      286.78,
+      288.02
+    ],
+    "text": " regarding financial aid,"
+  },
+  {
+    "timestamp": [
+      288.52,
+      291.3
+    ],
+    "text": " which assistance their program requirements and policies."
+  },
+  {
+    "timestamp": [
+      292.96,
+      295.4
+    ],
+    "text": " And so with that, I would just like to thank you for your time."
+  },
+  {
+    "timestamp": [
+      297.46,
+      300.7
+    ],
+    "text": " Okay, and once again, we thank you for choosing education experts."
+  },
+  {
+    "timestamp": [
+      301.22,
+      301.78
+    ],
+    "text": " And thank you."
+  },
+  {
+    "timestamp": [
+      302.58,
+      303.2
+    ],
+    "text": " You're welcome."
+  },
+  {
+    "timestamp": [
+      303.44,
+      303.64
+    ],
+    "text": " All right."
+  },
+  {
+    "timestamp": [
+      304.4,
+      304.72
+    ],
+    "text": " You too."
+  },
+  {
+    "timestamp": [
+      304.72,
+      304.96
+    ],
+    "text": " Bye."
+  },
+  {
+    "timestamp": [
+      305.6,
+      null
+    ],
+    "text": " Bye- Bye."
+  }
+]

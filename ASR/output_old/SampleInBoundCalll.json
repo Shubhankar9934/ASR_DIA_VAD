@@ -1,0 +1,874 @@
+[
+  {
+    "type": "speech",
+    "start": 0.0,
+    "end": 2.12,
+    "speaker": "SPEAKER_00",
+    "text": "You're listening to Magellan Solutions podcast."
+  },
+  {
+    "type": "silence",
+    "start": 2.12,
+    "end": 2.8
+  },
+  {
+    "type": "speech",
+    "start": 2.8,
+    "end": 6.0,
+    "speaker": "SPEAKER_00",
+    "text": "For more information about Magellan Solutions, log on to www."
+  },
+  {
+    "type": "speech",
+    "start": 6.0,
+    "end": 8.7,
+    "speaker": "SPEAKER_00",
+    "text": "www.m.orgia.com."
+  },
+  {
+    "type": "silence",
+    "start": 8.7,
+    "end": 8.9
+  },
+  {
+    "type": "speech",
+    "start": 8.9,
+    "end": 10.54,
+    "speaker": "SPEAKER_00",
+    "text": "And now he does an inbound call recording."
+  },
+  {
+    "type": "silence",
+    "start": 10.54,
+    "end": 13.4
+  },
+  {
+    "type": "speech",
+    "start": 13.4,
+    "end": 15.72,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks for calling AT&T. My name is Erica."
+  },
+  {
+    "type": "silence",
+    "start": 15.72,
+    "end": 15.94
+  },
+  {
+    "type": "speech",
+    "start": 15.94,
+    "end": 18.42,
+    "speaker": "SPEAKER_01",
+    "text": "Can I have the wireless cell for no more that they're calling you about today?"
+  },
+  {
+    "type": "silence",
+    "start": 18.42,
+    "end": 19.82
+  },
+  {
+    "type": "speech",
+    "start": 19.82,
+    "end": 23.06,
+    "speaker": "SPEAKER_00",
+    "text": "406-9 of 112."
+  },
+  {
+    "type": "silence",
+    "start": 23.06,
+    "end": 24.08
+  },
+  {
+    "type": "speech",
+    "start": 24.08,
+    "end": 24.34,
+    "speaker": "SPEAKER_01",
+    "text": "It's good."
+  },
+  {
+    "type": "speech",
+    "start": 24.34,
+    "end": 28.12,
+    "speaker": "SPEAKER_01",
+    "text": "I can figure me that number was 406, 539, 1202."
+  },
+  {
+    "type": "silence",
+    "start": 28.12,
+    "end": 28.2
+  },
+  {
+    "type": "speech",
+    "start": 28.2,
+    "end": 28.82,
+    "speaker": "SPEAKER_01",
+    "text": "Is that correct?"
+  },
+  {
+    "type": "silence",
+    "start": 28.82,
+    "end": 29.9
+  },
+  {
+    "type": "speech",
+    "start": 29.9,
+    "end": 30.32,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "type": "silence",
+    "start": 30.32,
+    "end": 30.66
+  },
+  {
+    "type": "speech",
+    "start": 30.66,
+    "end": 31.7,
+    "speaker": "SPEAKER_01",
+    "text": "Do you have me help you today?"
+  },
+  {
+    "type": "silence",
+    "start": 31.7,
+    "end": 33.2
+  },
+  {
+    "type": "speech",
+    "start": 33.2,
+    "end": 36.52,
+    "speaker": "SPEAKER_00",
+    "text": "I got this letter saying I can get to Blackberry Torch."
+  },
+  {
+    "type": "silence",
+    "start": 36.52,
+    "end": 37.06
+  },
+  {
+    "type": "speech",
+    "start": 37.06,
+    "end": 37.46,
+    "speaker": "SPEAKER_01",
+    "text": "Mm-hmm."
+  },
+  {
+    "type": "silence",
+    "start": 37.46,
+    "end": 39.06
+  },
+  {
+    "type": "speech",
+    "start": 39.06,
+    "end": 39.78,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, that warned."
+  },
+  {
+    "type": "silence",
+    "start": 39.78,
+    "end": 39.92
+  },
+  {
+    "type": "speech",
+    "start": 39.92,
+    "end": 41.4,
+    "speaker": "SPEAKER_01",
+    "text": "The more than happy, this is TV desk."
+  },
+  {
+    "type": "speech",
+    "start": 41.4,
+    "end": 44.02,
+    "speaker": "SPEAKER_01",
+    "text": "But before we proceed, for security reasons of your account,"
+  },
+  {
+    "type": "silence",
+    "start": 44.02,
+    "end": 44.7
+  },
+  {
+    "type": "speech",
+    "start": 44.7,
+    "end": 47.36,
+    "speaker": "SPEAKER_01",
+    "text": "can you please verify some information for me first?"
+  },
+  {
+    "type": "silence",
+    "start": 47.36,
+    "end": 48.7
+  },
+  {
+    "type": "speech",
+    "start": 48.7,
+    "end": 49.06,
+    "speaker": "SPEAKER_00",
+    "text": "Yep."
+  },
+  {
+    "type": "silence",
+    "start": 49.06,
+    "end": 49.36
+  },
+  {
+    "type": "speech",
+    "start": 49.36,
+    "end": 51.8,
+    "speaker": "SPEAKER_01",
+    "text": "Can you have the first and last name of the account holder?"
+  },
+  {
+    "type": "silence",
+    "start": 51.8,
+    "end": 53.4
+  },
+  {
+    "type": "speech",
+    "start": 53.4,
+    "end": 54.36,
+    "speaker": "SPEAKER_00",
+    "text": "Josh Milligan."
+  },
+  {
+    "type": "silence",
+    "start": 54.36,
+    "end": 55.44
+  },
+  {
+    "type": "speech",
+    "start": 55.44,
+    "end": 56.08,
+    "speaker": "unknown",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 56.08,
+    "end": 57.12
+  },
+  {
+    "type": "speech",
+    "start": 57.12,
+    "end": 59.36,
+    "speaker": "SPEAKER_01",
+    "text": "And who am I speaking with today if I may ask?"
+  },
+  {
+    "type": "silence",
+    "start": 59.36,
+    "end": 60.24
+  },
+  {
+    "type": "speech",
+    "start": 60.24,
+    "end": 60.8,
+    "speaker": "SPEAKER_00",
+    "text": "Josh."
+  },
+  {
+    "type": "silence",
+    "start": 60.8,
+    "end": 61.52
+  },
+  {
+    "type": "speech",
+    "start": 61.52,
+    "end": 65.36,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, Mr. Milgan, can you please verify the billing zip code?"
+  },
+  {
+    "type": "silence",
+    "start": 65.36,
+    "end": 67.44
+  },
+  {
+    "type": "speech",
+    "start": 67.44,
+    "end": 68.86,
+    "speaker": "SPEAKER_00",
+    "text": "59714."
+  },
+  {
+    "type": "silence",
+    "start": 68.86,
+    "end": 70.4
+  },
+  {
+    "type": "speech",
+    "start": 70.4,
+    "end": 74.92,
+    "speaker": "SPEAKER_01",
+    "text": "And also the last four digits of your social security number."
+  },
+  {
+    "type": "silence",
+    "start": 74.92,
+    "end": 76.16
+  },
+  {
+    "type": "speech",
+    "start": 76.16,
+    "end": 77.28,
+    "speaker": "SPEAKER_00",
+    "text": "5528."
+  },
+  {
+    "type": "silence",
+    "start": 77.28,
+    "end": 77.54
+  },
+  {
+    "type": "speech",
+    "start": 77.54,
+    "end": 78.96,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks very much for that information."
+  },
+  {
+    "type": "silence",
+    "start": 78.96,
+    "end": 79.62
+  },
+  {
+    "type": "speech",
+    "start": 79.62,
+    "end": 80.98,
+    "speaker": "SPEAKER_01",
+    "text": "So just to make you clear that they understand,"
+  },
+  {
+    "type": "silence",
+    "start": 80.98,
+    "end": 81.08
+  },
+  {
+    "type": "speech",
+    "start": 81.08,
+    "end": 83.98,
+    "speaker": "SPEAKER_01",
+    "text": "you correctly use the letter regarding the Blockbear Torch."
+  },
+  {
+    "type": "silence",
+    "start": 83.98,
+    "end": 84.58
+  },
+  {
+    "type": "speech",
+    "start": 84.58,
+    "end": 87.08,
+    "speaker": "SPEAKER_01",
+    "text": "And do you want to take advantage of this offer?"
+  },
+  {
+    "type": "silence",
+    "start": 87.08,
+    "end": 88.2
+  },
+  {
+    "type": "speech",
+    "start": 88.2,
+    "end": 88.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "type": "silence",
+    "start": 88.68,
+    "end": 89.4
+  },
+  {
+    "type": "speech",
+    "start": 89.4,
+    "end": 91.22,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, and be more than having to assist you with that."
+  },
+  {
+    "type": "silence",
+    "start": 91.22,
+    "end": 91.54
+  },
+  {
+    "type": "speech",
+    "start": 91.54,
+    "end": 96.12,
+    "speaker": "SPEAKER_01",
+    "text": "I've been filling out all the information needed for the exchange, and it will be processed"
+  },
+  {
+    "type": "speech",
+    "start": 96.12,
+    "end": 101.18,
+    "speaker": "SPEAKER_01",
+    "text": "within 24 hours from now, and I just want to let you know that the new device will arrive"
+  },
+  {
+    "type": "speech",
+    "start": 101.18,
+    "end": 102.98,
+    "speaker": "SPEAKER_01",
+    "text": "within three to five business days."
+  },
+  {
+    "type": "silence",
+    "start": 102.98,
+    "end": 104.3
+  },
+  {
+    "type": "speech",
+    "start": 104.3,
+    "end": 108.16,
+    "speaker": "SPEAKER_01",
+    "text": "Please do not return old phone until you receive the new device."
+  },
+  {
+    "type": "silence",
+    "start": 108.16,
+    "end": 108.86
+  },
+  {
+    "type": "speech",
+    "start": 108.86,
+    "end": 112.78,
+    "speaker": "SPEAKER_01",
+    "text": "And I just want to let you know that if the original phones not return within 30 days,"
+  },
+  {
+    "type": "silence",
+    "start": 112.78,
+    "end": 113.28
+  },
+  {
+    "type": "speech",
+    "start": 113.28,
+    "end": 116.42,
+    "speaker": "SPEAKER_01",
+    "text": "you will be subject to $150 charge bail to your account."
+  },
+  {
+    "type": "silence",
+    "start": 116.42,
+    "end": 117.24
+  },
+  {
+    "type": "speech",
+    "start": 117.24,
+    "end": 120.8,
+    "speaker": "SPEAKER_01",
+    "text": "Also, please don't forget to take the SIM card out of the original phone"
+  },
+  {
+    "type": "speech",
+    "start": 120.8,
+    "end": 122.32,
+    "speaker": "SPEAKER_01",
+    "text": "and place it in the new phone, okay?"
+  },
+  {
+    "type": "silence",
+    "start": 122.32,
+    "end": 123.52
+  },
+  {
+    "type": "speech",
+    "start": 123.52,
+    "end": 123.82,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "type": "speech",
+    "start": 123.82,
+    "end": 128.14,
+    "speaker": "SPEAKER_01",
+    "text": "And also you will be receiving a customer service summary that at times their AATD service"
+  },
+  {
+    "type": "speech",
+    "start": 128.14,
+    "end": 131.12,
+    "speaker": "SPEAKER_01",
+    "text": "by ATD features by email or U.S. Mail."
+  },
+  {
+    "type": "silence",
+    "start": 131.12,
+    "end": 131.58
+  },
+  {
+    "type": "speech",
+    "start": 131.58,
+    "end": 133.72,
+    "speaker": "SPEAKER_01",
+    "text": "This summary will include an activation fee, however."
+  },
+  {
+    "type": "silence",
+    "start": 133.72,
+    "end": 134.0
+  },
+  {
+    "type": "speech",
+    "start": 134.0,
+    "end": 136.26,
+    "speaker": "SPEAKER_01",
+    "text": "This is not applied to you and you will not be charged."
+  },
+  {
+    "type": "silence",
+    "start": 136.26,
+    "end": 136.84
+  },
+  {
+    "type": "speech",
+    "start": 136.84,
+    "end": 140.76,
+    "speaker": "SPEAKER_01",
+    "text": "We do apologize for any confusion this may cost and if you have any further questions regarding this."
+  },
+  {
+    "type": "silence",
+    "start": 140.76,
+    "end": 141.42
+  },
+  {
+    "type": "speech",
+    "start": 141.42,
+    "end": 144.38,
+    "speaker": "SPEAKER_01",
+    "text": "Please feel free to the 611 from the 18D has it okay."
+  },
+  {
+    "type": "silence",
+    "start": 144.38,
+    "end": 145.68
+  },
+  {
+    "type": "speech",
+    "start": 145.68,
+    "end": 150.98,
+    "speaker": "SPEAKER_01",
+    "text": "Sure. And I'd be sending a return label as well for you to return the old device."
+  },
+  {
+    "type": "silence",
+    "start": 150.98,
+    "end": 151.1
+  },
+  {
+    "type": "speech",
+    "start": 151.1,
+    "end": 154.14,
+    "speaker": "SPEAKER_01",
+    "text": "I'm just going to verify where they want me to send the return label."
+  },
+  {
+    "type": "silence",
+    "start": 154.14,
+    "end": 154.76
+  },
+  {
+    "type": "speech",
+    "start": 154.76,
+    "end": 157.58,
+    "speaker": "SPEAKER_01",
+    "text": "Do you want me to send it via email or to your shipping address?"
+  },
+  {
+    "type": "silence",
+    "start": 157.58,
+    "end": 159.0
+  },
+  {
+    "type": "speech",
+    "start": 159.0,
+    "end": 159.4,
+    "speaker": "SPEAKER_00",
+    "text": "Shipping."
+  },
+  {
+    "type": "silence",
+    "start": 159.4,
+    "end": 160.22
+  },
+  {
+    "type": "speech",
+    "start": 160.22,
+    "end": 164.58,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, I'm just going to verify that it would be the 98 miles drive,"
+  },
+  {
+    "type": "silence",
+    "start": 164.58,
+    "end": 164.98
+  },
+  {
+    "type": "speech",
+    "start": 164.98,
+    "end": 170.16,
+    "speaker": "unknown",
+    "text": "Belved, Montana, 59714. Is that correct?"
+  },
+  {
+    "type": "silence",
+    "start": 170.16,
+    "end": 171.12
+  },
+  {
+    "type": "speech",
+    "start": 171.12,
+    "end": 171.6,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "type": "silence",
+    "start": 171.6,
+    "end": 171.96
+  },
+  {
+    "type": "speech",
+    "start": 171.96,
+    "end": 175.54,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, and is this the same address from going to ship the BlockByr torch?"
+  },
+  {
+    "type": "silence",
+    "start": 175.54,
+    "end": 176.48
+  },
+  {
+    "type": "speech",
+    "start": 176.48,
+    "end": 176.94,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "type": "silence",
+    "start": 176.94,
+    "end": 177.28
+  },
+  {
+    "type": "speech",
+    "start": 177.28,
+    "end": 185.32,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, and also once you receive the return label, just simply affix it to the phone box and drop it in any USB blue box, okay?"
+  },
+  {
+    "type": "silence",
+    "start": 185.32,
+    "end": 187.48
+  },
+  {
+    "type": "speech",
+    "start": 187.48,
+    "end": 188.54,
+    "speaker": "SPEAKER_00",
+    "text": "Drop it in what?"
+  },
+  {
+    "type": "silence",
+    "start": 188.54,
+    "end": 188.82
+  },
+  {
+    "type": "speech",
+    "start": 188.82,
+    "end": 190.92,
+    "speaker": "SPEAKER_01",
+    "text": "In any USBS blue box."
+  },
+  {
+    "type": "silence",
+    "start": 190.92,
+    "end": 191.96
+  },
+  {
+    "type": "speech",
+    "start": 191.96,
+    "end": 192.4,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 192.4,
+    "end": 192.72
+  },
+  {
+    "type": "speech",
+    "start": 192.72,
+    "end": 193.02,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "type": "silence",
+    "start": 193.02,
+    "end": 193.34
+  },
+  {
+    "type": "speech",
+    "start": 193.34,
+    "end": 196.54,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm done feeling that all the information needed here for the exchange."
+  },
+  {
+    "type": "silence",
+    "start": 196.54,
+    "end": 197.0
+  },
+  {
+    "type": "speech",
+    "start": 197.0,
+    "end": 200.44,
+    "speaker": "SPEAKER_01",
+    "text": "So do you have any questions regarding the information that I provided you, Mr. Milligan?"
+  },
+  {
+    "type": "silence",
+    "start": 200.44,
+    "end": 201.66
+  },
+  {
+    "type": "speech",
+    "start": 201.66,
+    "end": 202.12,
+    "speaker": "SPEAKER_00",
+    "text": "No."
+  },
+  {
+    "type": "silence",
+    "start": 202.12,
+    "end": 202.44
+  },
+  {
+    "type": "speech",
+    "start": 202.44,
+    "end": 203.86,
+    "speaker": "SPEAKER_01",
+    "text": "Is there anything else I can help you with?"
+  },
+  {
+    "type": "silence",
+    "start": 203.86,
+    "end": 204.96
+  },
+  {
+    "type": "speech",
+    "start": 204.96,
+    "end": 205.88,
+    "speaker": "SPEAKER_00",
+    "text": "I don't want to."
+  },
+  {
+    "type": "silence",
+    "start": 205.88,
+    "end": 206.26
+  },
+  {
+    "type": "speech",
+    "start": 206.26,
+    "end": 208.24,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, we do Vali and appreciate your business."
+  },
+  {
+    "type": "silence",
+    "start": 208.24,
+    "end": 208.42
+  },
+  {
+    "type": "speech",
+    "start": 208.42,
+    "end": 210.5,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you for calling AT&D and have a great day."
+  },
+  {
+    "type": "silence",
+    "start": 210.5,
+    "end": 211.44
+  },
+  {
+    "type": "speech",
+    "start": 211.44,
+    "end": 212.04,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you."
+  },
+  {
+    "type": "silence",
+    "start": 212.04,
+    "end": 212.38
+  },
+  {
+    "type": "speech",
+    "start": 212.38,
+    "end": 213.24,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, goodbye."
+  },
+  {
+    "type": "silence",
+    "start": 213.24,
+    "end": 213.96
+  },
+  {
+    "type": "speech",
+    "start": 213.96,
+    "end": 214.32,
+    "speaker": "SPEAKER_00",
+    "text": "Bye."
+  },
+  {
+    "type": "silence",
+    "start": 214.32,
+    "end": 215.46
+  },
+  {
+    "type": "speech",
+    "start": 215.46,
+    "end": 216.94,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you for listening to our podcast."
+  },
+  {
+    "type": "silence",
+    "start": 216.94,
+    "end": 217.48
+  },
+  {
+    "type": "speech",
+    "start": 217.48,
+    "end": 220.46,
+    "speaker": "SPEAKER_00",
+    "text": "Find out more about our services by visiting www."
+  },
+  {
+    "type": "silence",
+    "start": 220.46,
+    "end": 221.12
+  },
+  {
+    "type": "speech",
+    "start": 221.12,
+    "end": 226.46,
+    "speaker": "SPEAKER_00",
+    "text": "Magellan-solutions.com or call our tall-free numbers from U.S., UK and Australia."
+  },
+  {
+    "type": "silence",
+    "start": 226.46,
+    "end": 228.467
+  }
+]
